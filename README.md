@@ -1,2 +1,2 @@
 # CommandPattern
- example for command Pattern
+ Command Pattern code example in JAVA
